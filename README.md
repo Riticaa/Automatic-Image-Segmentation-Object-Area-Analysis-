@@ -177,4 +177,4 @@ A: The current implementation ignores objects smaller than 50 pixels to filter o
 
 ---
 
-**Happy Segmenting! 🎯**
+
