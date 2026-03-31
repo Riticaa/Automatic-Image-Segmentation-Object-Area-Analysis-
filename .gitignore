@@ -1,0 +1,21 @@
+# Python cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.venv
+venv/
+
+# OS specific
+.DS_Store
+Thumbs.db
