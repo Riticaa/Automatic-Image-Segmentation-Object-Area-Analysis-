@@ -1,4 +1,4 @@
-# 🧠 Automatic Image Segmentation & Object Area Analysis (CLI-Based)
+# 🧠 Automatic Image Segmentation & Object Area Analysis 
 
 ---
 
